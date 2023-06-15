@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T15:25:49 IST" name="Suite" finished-at="2023-06-14T15:26:07 IST" duration-ms="18090">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T15:25:49 IST" name="Test" finished-at="2023-06-14T15:26:07 IST" duration-ms="18090">
+      <class name="testCases.Tc_002_LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_002_LoginTest@223191a6]" started-at="2023-06-14T15:25:49 IST" name="setup" finished-at="2023-06-14T15:26:04 IST" duration-ms="14084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_login()[pri:0, instance:testCases.Tc_002_LoginTest@223191a6]" started-at="2023-06-14T15:26:04 IST" name="test_login" finished-at="2023-06-14T15:26:07 IST" duration-ms="3259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testCases.Tc_002_LoginTest@223191a6]" started-at="2023-06-14T15:26:07 IST" name="logout" finished-at="2023-06-14T15:26:07 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testCases.Tc_002_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
