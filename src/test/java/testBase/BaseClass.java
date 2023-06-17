@@ -62,11 +62,11 @@ public ResourceBundle rb;
 	
 	
 	
-	@AfterClass
+	/*@AfterClass
 	public void logout()
 	{
 		driver.quit();
-	}
+	}*/
 	
 	public String randomstring()
 	{

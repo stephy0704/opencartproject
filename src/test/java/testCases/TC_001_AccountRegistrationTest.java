@@ -18,10 +18,10 @@ public class TC_001_AccountRegistrationTest extends BaseClass {
 		logger.info("****TC_001_AccountRegistrationTest has started*****");
 		Accountregistrationpage regpage=new Accountregistrationpage(driver);
 		
-		regpage.setfirstname("lachu");
+		regpage.setfirstname("abcd");
 		logger.info("First name is entered");
 		
-		 regpage.setlastname("lachu");
+		 regpage.setlastname("abcd");
 		 logger.info("Last name is entered");
 		 
 		 regpage.setemail(rb.getString("email"));
