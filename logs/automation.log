@@ -126,3 +126,6 @@
 15:58:48.910 [main] INFO  testCases.Tc_002_LoginTest - ***Tc_002_LoginTest***
 15:58:50.543 [main] INFO  testCases.Tc_002_LoginTest - clicked on login link and page is visible
 15:58:51.810 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button
+13:51:38.920 [main] INFO  testCases.Tc_002_LoginTest - ***Tc_002_LoginTest***
+13:51:40.166 [main] INFO  testCases.Tc_002_LoginTest - clicked on login link and page is visible
+13:51:41.353 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button
